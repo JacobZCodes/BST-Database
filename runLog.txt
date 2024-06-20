@@ -1,0 +1,88 @@
+Student Information:
+~~~~~~~~ Student Info ~~~~~~~~~
+ID: 1234789
+Name: Charlie
+Level: Senior
+Major: Mathematics
+GPA: 3.8
+Advisor ID: 3492867
+
+~~~~~~~~ Student Info ~~~~~~~~~
+ID: 2345678
+Name: Eva
+Level: Junior
+Major: History
+GPA: 3.6
+Advisor ID: 5729384
+
+~~~~~~~~ Student Info ~~~~~~~~~
+ID: 5467890
+Name: Bob
+Level: Sophomore
+Major: Engineering
+GPA: 3.5
+Advisor ID: 8274615
+
+~~~~~~~~ Student Info ~~~~~~~~~
+ID: 8743562
+Name: Alice
+Level: Junior
+Major: Computer Science
+GPA: 3.9
+Advisor ID: 8274615
+
+~~~~~~~~ Student Info ~~~~~~~~~
+ID: 8901234
+Name: Frank
+Level: Senior
+Major: Psychology
+GPA: 3.7
+Advisor ID: 5729384
+
+~~~~~~~~ Student Info ~~~~~~~~~
+ID: 9876543
+Name: David
+Level: Freshman
+Major: Biology
+GPA: 3.2
+Advisor ID: 3492867
+
+
+---------------------------------
+Faculty Information:
+~~~~~~~~ Faculty Info ~~~~~~~~~
+ID: 3492867
+Name: Dr. Johnson
+Level: Associate Professor
+Dept: Engineering
+Advisees:
+  9876543
+  1234789
+
+~~~~~~~~ Faculty Info ~~~~~~~~~
+ID: 5729384
+Name: Dr. Davis
+Level: Professor
+Dept: Mathematics
+Advisees:
+  8901234
+  2345678
+
+~~~~~~~~ Faculty Info ~~~~~~~~~
+ID: 6842091
+Name: Dr. Wilson
+Level: Assistant Professor
+Dept: Biology
+Advisees:
+  6472109
+  5432109
+
+~~~~~~~~ Faculty Info ~~~~~~~~~
+ID: 8274615
+Name: Dr. Smith
+Level: Professor
+Dept: Computer Science
+Advisees:
+  5467890
+  8743562
+
